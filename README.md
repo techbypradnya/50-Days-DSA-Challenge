@@ -4,7 +4,8 @@ A comprehensive 5-day Data Structures and Algorithms challenge focused on **Arra
 
 ## 📋 Challenge Overview
 
-This challenge is designed to build a strong foundation in DSA by solving carefully curated problems over 5 consecutive days. Each day focuses on specific concepts and increases in difficulty.
+This challenge is designed to build a strong foundation in DSA by solving carefully curated problems over 5 consecutive days.
+ Each day focuses on specific concepts and increases in difficulty.
 
 ---
 
