@@ -22,31 +22,31 @@ This challenge is designed to build a strong foundation in DSA by solving carefu
 
 #### Problems to Solve:
 
-1. **Linear Search in Array**
+1. ✅ **Linear Search in Array**
    - Input: Array of integers, target value
    - Output: Index of target or -1 if not found
    - Complexity: O(n) time, O(1) space
    - Concepts: Basic iteration, conditionals
 
-2. **Binary Search**
+2. ✅ **Binary Search**
    - Input: Sorted array, target value
    - Output: Index of target or -1 if not found
    - Complexity: O(log n) time, O(1) space
    - Concepts: Divide and conquer, pointers
 
-3. **Find the Maximum Element**
+3. ✅ **Find the Maximum Element**
    - Input: Array of integers
    - Output: Maximum value
    - Complexity: O(n) time, O(1) space
    - Concepts: Single pass iteration
 
-4. **Find Duplicate Elements**
+4. ✅ **Find Duplicate Elements**
    - Input: Array with duplicates
    - Output: All duplicate values
    - Complexity: O(n) time, O(n) space
    - Concepts: Hash set/map
 
-5. **Remove Duplicates from Sorted Array**
+5. ✅ **Remove Duplicates from Sorted Array**
    - Input: Sorted array with duplicates
    - Output: Array with duplicates removed, return length
    - Complexity: O(n) time, O(1) space
@@ -65,31 +65,31 @@ This challenge is designed to build a strong foundation in DSA by solving carefu
 
 #### Problems to Solve:
 
-1. **Reverse an Array**
+1. ✅ **Reverse an Array**
    - Input: Array of integers
    - Output: Reversed array
    - Complexity: O(n) time, O(1) space
    - Concepts: Two pointers, in-place reversal
 
-2. **Move All Zeros to End**
+2. ✅ **Move All Zeros to End**
    - Input: Array of integers
    - Output: Array with all zeros moved to end
    - Complexity: O(n) time, O(1) space
    - Concepts: Two-pointer, element shifting
 
-3. **Rotate Array by K positions**
+3. ✅ **Rotate Array by K positions**
    - Input: Array and rotation count K
    - Output: Rotated array
    - Complexity: O(n) time, O(1) space (optimal)
    - Concepts: Array rotation algorithms
 
-4. **Sort Array of 0s, 1s, and 2s (Dutch National Flag)**
+4. ✅ **Sort Array of 0s, 1s, and 2s (Dutch National Flag)**
    - Input: Array containing 0s, 1s, 2s
    - Output: Sorted array
    - Complexity: O(n) time, O(1) space
    - Concepts: Three-pointer technique
 
-5. **Merge Two Sorted Arrays**
+5. ✅ **Merge Two Sorted Arrays**
    - Input: Two sorted arrays
    - Output: One merged sorted array
    - Complexity: O(m+n) time, O(m+n) space
