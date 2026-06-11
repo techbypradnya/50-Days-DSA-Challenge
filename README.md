@@ -313,11 +313,35 @@ This challenge is designed to build a strong foundation in DSA by solving carefu
 Create a checklist to track your progress:
 
 ### Day 1: Array Fundamentals
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Find Maximum Element
-- [ ] Find Duplicate Elements
-- [ ] Remove Duplicates from Sorted Array
+- [x] Linear Search
+- [x] Binary Search
+- [x] Find Maximum Element
+- [x] Find Duplicate Elements
+- [x] Remove Duplicates from Sorted Array
+
+### Day 2: Array Manipulation
+- [x] Reverse an Array
+- [x] Move All Zeros to End
+- [x] Rotate Array by K positions
+- [x] Sort Array of 0s, 1s, and 2s
+- [x] Merge Two Sorted Arrays
+
+### Day 3: String Fundamentals
+- [ ] Reverse a String
+- [ ] Check if String is Palindrome
+- [ ] Find Duplicate Characters
+- [ ] Remove Duplicate Characters
+- [ ] First Unique Character in String
+
+### Day 4: Advanced Strings
+- [ ] Longest Substring Without Repeating Characters
+- [ ] Longest Common Prefix
+- [ ] Check if String is Anagram
+- [ ] Group Anagrams
+- [ ] Compress String
+
+### Day 5: Integration & Practice
+- [x] Completed
 
 ### Day 2: Array Manipulation
 - [ ] Reverse an Array
