@@ -11,7 +11,7 @@ This challenge is designed to build a strong foundation in DSA by solving carefu
 
 - Day 1: Completed
 - Day 2: Completed
-- Day 3: Pending
+- Day 3: Completed
 - Day 4: Pending
 - Day 5: Pending
 
