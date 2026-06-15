@@ -31,3 +31,4 @@ public class LongestPalindromicSubstring {
         }
         return s.substring(left + 1, right);
     }
+}

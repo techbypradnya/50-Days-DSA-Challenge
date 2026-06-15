@@ -17,3 +17,4 @@ public class RotateString {
         }
         return s.substring(n - k) + s.substring(0, n - k);
     }
+}

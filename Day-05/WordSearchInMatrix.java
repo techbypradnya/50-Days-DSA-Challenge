@@ -43,3 +43,4 @@ public class WordSearchInMatrix {
         board[row][col] = temp;
         return found;
     }
+}
